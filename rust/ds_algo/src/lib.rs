@@ -1,5 +1,5 @@
-#[macro_use]
 mod datastructures;
+mod leetcode;
 
 fn add(left: usize, right: usize) -> usize {
     left + right
